@@ -29,13 +29,13 @@
 
 
  <br> **الكتب** 
-  <br> كتب عربية عددها 177 كتاب
-  <br> كتب مترجمة عددها 162 كتاب
+  <br> [كتب عربية](https://rn0x.me/binbaz/database/books_ar.json) عددها 177 كتاب
+  <br> [كتب مترجمة](https://rn0x.me/binbaz/database/books_en.json) عددها 162 كتاب
 <br>
 <br> **الفتاوى** 
- <br> نور على الدرب 12269 فتوى 
- <br> فتاوى الجامع الكبير 1783 فتوى
- <br> فتاوى الدروس 5675 فتوى
+ <br> [نور على الدرب](https://rn0x.me/binbaz/database/nur_ealaa_aldarb.json) 12269 فتوى 
+ <br> [فتاوى الجامع الكبير](https://rn0x.me/binbaz/database/fatawaa_aljamie_alkabir.json) 1783 فتوى
+ <br> [فتاوى الدروس](https://rn0x.me/binbaz/database/fatawaa_aljamie_alkabir.json) 5675 فتوى
 
 </div>
 <br> 
