@@ -1,6 +1,10 @@
-# binbaz_database
+
 
 <div align="center">
+
+# binbaz_database
+
+<img src="binbaz_database.png" width="600px;"/><br> <br> 
 
  **مكشطة وقاعدة بيانات لـ موقع سماحة الشيخ الإمام ابن باز رحمه الله**
 
