@@ -1,0 +1,23 @@
+{
+  "name": "binbaz_database",
+  "version": "1.0",
+  "description": "مكشطة وقاعدة بيانات الموقع الرسمي لسماحة الشيخ الإمام ابن باز رحمه الله > فتاوى + كتب",
+  "main": "scraper/fatwas_raw.js",
+  "type": "module",
+  "scripts": {
+    "fatwas": "node scraper/fatwas_raw.js",
+    "books": "node scraper/book.js",
+    "download-books": "node scraper/download_books.js",
+    "download-fatwas": "node scraper/download_fatwas.js"
+  },
+  "author": "rn0x",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.1.0",
+    "jsdom": "^21.1.0",
+    "node-fetch": "^3.3.0"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.1"
+  }
+}
