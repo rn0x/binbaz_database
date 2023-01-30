@@ -107,7 +107,7 @@
 
 <br>
 
-- id - رقم الكتاب | `number`
+- id - رقم الفتوى | `number`
 - question - السؤال ؟ | `number`
 - title - العنوان | `string`
 - answer - الجواب (الفتوى) | `string`
