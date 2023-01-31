@@ -45,7 +45,7 @@ async function download_books() {
                     let format = link !== 'undefined' ? link?.includes('.doc') ? 'doc' : 'pdf' : false
                     let ch = fs.existsSync(`./files/books/${item.name}/${id}/${name}.${format}`);
 
-                    if (link !== 'undefined' && ch === false) {
+                    if (link !== 'undefined' && link && ch === false) {
 
                         let buffer = await getBuffer(link).catch(e => console.log(e));
                         let bufferFrom = new Buffer.from(buffer);

@@ -41,7 +41,7 @@ async function download_fatwas() {
                 let audio = index.audio;
                 let ch = fs.existsSync(`./files/${item.name}/${id}.mp3`);
 
-                if (audio !== 'undefined' && ch === false) {
+                if (audio !== 'undefined' && audio && ch === false) {
                     let buffer = await getBuffer(audio).catch(e => console.log(e));
                     let bufferFrom = Buffer.from(buffer);
 
