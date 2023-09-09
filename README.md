@@ -172,6 +172,14 @@ npm run download-books
 <br> <br><br>
 
 
+يمكن تنزيل قاعدة البيانات من [هنا](https://github.com/rn0x/binbaz_database/releases) 
+
+بعض الملفات كبير الحجم مقسمها لعدة أقسام 
+
+لفك الضغط عنها تحتاج برنامج .7z
+
+
+
 # LICENSE
 
 MIT license 
