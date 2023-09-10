@@ -33,13 +33,13 @@
 
 
  <br> **الكتب** 
-  <br> [كتب عربية](https://rn0x.me/binbaz/database/books_ar.json) عددها 177 كتاب
-  <br> [كتب مترجمة](https://rn0x.me/binbaz/database/books_en.json) عددها 162 كتاب
+  <br> كتب عربية عددها 177 كتاب
+  <br> كتب مترجمة عددها 162 كتاب
 <br>
 <br> **الفتاوى** 
- <br> [نور على الدرب](https://rn0x.me/binbaz/database/nur_ealaa_aldarb.json) 12269 فتوى 
- <br> [فتاوى الجامع الكبير](https://rn0x.me/binbaz/database/fatawaa_aljamie_alkabir.json) 1783 فتوى
- <br> [فتاوى الدروس](https://rn0x.me/binbaz/database/fatawaa_aljamie_alkabir.json) 5675 فتوى
+ <br> نور على الدرب 12269 فتوى 
+ <br> فتاوى الجامع الكبير 1783 فتوى
+ <br> فتاوى الدروس 5675 فتوى
 
 </div>
 <br> 
@@ -171,18 +171,79 @@ npm run download-books
 
 <br> <br><br>
 
+# تنزيل قاعدة البيانات
 
-يمكن تنزيل قاعدة البيانات من [هنا](https://github.com/rn0x/binbaz_database/releases) 
+#### كتب عربية
+- [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_ar.json)
+- [csv](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_ar.csv)
+- [xlsx](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_ar.xlsx)
 
-بعض الملفات كبيرة الحجم مقسمها لعدة أقسام 
+#### كتب مترجمة
+- [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_en.json)
+- [csv](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_en.csv)
+- [xlsx](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_en.xlsx)
 
-لفك الضغط عنها تحتاج برنامج .7z
+#### نور على الدرب
+- [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.json)
+- [csv](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.csv)
+- [xlsx](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.xlsx)
+
+#### فتاوى الجامع الكبير
+- [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.json)
+- [csv](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.csv)
+- [xlsx](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.xlsx)
+
+#### فتاوى الدروس
+- [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.json)
+- [csv](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.csv)
+- [xlsx](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.xlsx)
 
 
+________
+
+#### كتب (مسارات محلية) 
+- [json-AR](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_ar-local.json)
+- [json-EN](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_en-local.json)
+- [كتب PDF - ملف مضغوط ZIP](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books.zip) - 1.69 GB
+
+
+#### نور على الدرب (مسارات محلية) 
+- [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb-local.json)
+- [PART1.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.001) - 1.86 GB
+- [PART2.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.002) - 1.86 GB
+- [PART3.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.003) - 1.86 GB
+- [PART4.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.004) - 1.86 GB
+- [PART5.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.005) - 1.86 GB
+- [PART6.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.006) - 1.86 GB
+- [PART7.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.007) - 1.86 GB
+- [PART8.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.008) - 1.86 GB
+- [PART9.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.009) - 1.86 GB
+- [PART10.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.010) - 1.16 GB
+
+
+#### فتاوى الجامع الكبير (مسارات محلية) 
+- [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.json)
+- [PART1.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.7z.001) - 1.86 GB
+- [PART2.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.7z.002) - 1.86 GB
+- [PART3.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.7z.003) - 1.86 GB
+- [PART4.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.7z.004) - 374 MB
+
+
+#### فتاوى الدروس (مسارات محلية) 
+- [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.json)
+- [PART1.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.7z.001) - 1.86 GB
+- [PART2.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.7z.002) - 1.86 GB
+- [PART3.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.7z.003) - 1.86 GB
+- [PART4.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.7z.004) - 380 MB
+
+
+تحميل جميع ملفات json و csv و xls في ملف واحد مضغوط [zip](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/database.zip)
 
 # LICENSE
 
 MIT license 
 
+
+## لا تنسنا من دعوة صالحة في ظهر الغيب
 </div>
 
