@@ -207,8 +207,13 @@ ________
 - [كتب PDF - ملف مضغوط ZIP](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books.zip) - 1.69 GB
 
 
+__________
+
 #### نور على الدرب (مسارات محلية) 
 - [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb-local.json)
+
+**نور على الدرب ملفات صوتية في ملف مضغوط .7z مقسم لعدة أقسام**
+  
 - [PART1.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.001) - 1.86 GB
 - [PART2.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.002) - 1.86 GB
 - [PART3.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.003) - 1.86 GB
@@ -221,21 +226,33 @@ ________
 - [PART10.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/nur_ealaa_aldarb.7z.010) - 1.16 GB
 
 
+_________
+
 #### فتاوى الجامع الكبير (مسارات محلية) 
 - [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.json)
+
+**فتاوى الجامع الكبير ملفات صوتية في ملف مضغوط .7z مقسم لعدة أقسام**
+
 - [PART1.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.7z.001) - 1.86 GB
 - [PART2.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.7z.002) - 1.86 GB
 - [PART3.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.7z.003) - 1.86 GB
 - [PART4.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aljamie_alkabir.7z.004) - 374 MB
 
+_________
+
 
 #### فتاوى الدروس (مسارات محلية) 
 - [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.json)
+
+**فتاوى الدروس ملفات صوتية في ملف مضغوط .7z مقسم لعدة أقسام**
+
 - [PART1.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.7z.001) - 1.86 GB
 - [PART2.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.7z.002) - 1.86 GB
 - [PART3.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.7z.003) - 1.86 GB
 - [PART4.7z](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/fatawaa_aldurus.7z.004) - 380 MB
 
+
+__________
 
 تحميل جميع ملفات json و csv و xls في ملف واحد مضغوط [zip](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/database.zip)
 
