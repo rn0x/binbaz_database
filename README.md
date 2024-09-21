@@ -173,6 +173,13 @@ npm run download-books
 
 # تنزيل قاعدة البيانات
 
+<div align="center">
+
+
+![binbaz_database](https://img.shields.io/github/downloads/rn0x/binbaz_database/total?color=blue&label=Total%20Downloads)
+
+</div>
+
 #### كتب عربية
 - [json](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_ar.json)
 - [csv](https://github.com/Alsarmad/binbaz_database/releases/download/v1.0/books_ar.csv)
